@@ -1,6 +1,6 @@
 # Compiled files
 dist/
-
+.idea
 # Config file
 config/config.js
 
